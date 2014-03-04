@@ -4,7 +4,7 @@ permalink: /boners/
 title: How to Hide Your Boners
 tagline: We think the title's pretty self explanatory, yeah?
 tags: [guide, bundle]
-modified: 1-30-2014
+modified: 3-03-2014
 image:
   feature: boners-feature.png
 ---
