@@ -1,0 +1,66 @@
+title:            BABUGuides.com
+tagline:          Building A Better yoU!
+description:      The official site of BABU Guides, THE source for inaccurate and hastily-written guess-fests!
+# Your site's domain goes here. Leave localhost server or blank when working locally.
+url:              http://www.babuguides.com
+
+# Owner/author information
+owner:
+  name:           Charlemagne Goodwriter
+  avatar:         bio-photo.jpg
+  bio:            "Your tour guide through a wasteland of largely useless and satirical guides. Guides, coincidentally, that I wrote."
+  email:          egghead@babuguides.com
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  twitter: babuguides        
+  facebook:       
+  github:         
+  linkedin:       
+  instagram:      
+  lastfm:         
+  tumblr:         
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:    
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-48604412-2
+google_verify: nHnKaACNdLzG9C7TTRj1osyMF6qcYcCywaXPvTTOBOE     
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:        
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+
+  - title: Our Guides!
+    url: /guides/
+  - title: About
+    url: /about/
+  - title: Post Archive
+    url: /posts/
+
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Chicago
+future:      true
+pygments:    false
+markdown:    kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers: 
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]

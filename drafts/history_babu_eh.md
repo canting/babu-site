@@ -1,0 +1,14 @@
+# The History of BABU
+
+Not that any of you really care, but if you're bored and curious, read on.
+
+So a long time ago (2003-ish) I was working for a tv company and trying to think of ideas for a show.  This company was trying to start it's own cable network, and even though it was clearly more interested in bikers and strippers I still set my naive little head to the task of thinking of a show I would like to do, as opposed to something I would hate to do but that they would actually pay me for.  This brainstorming session actually resulted in a huge mass of creative material such as comedy sketches, two series that I might some day like to make, and many more ideas that are still locked away in a vault.  This isn't exactly where BABU came from, but it sets up Charlemagne Goodwriter's Rule of Creativity (RoC) #1:  The more likely (I think) it is that something will get made, the more ideas I will have for it, and the faster they will come.
+
+So what happened to this tv company?  They went under due to lack of funds, resurfaced a year later (somehow bringing me in a second time.  It was cooler the second time, though this time I quit before I could be laid off).  It actually occurs to me that this brainstorming session happened the second time I worked for this company.  I know this because I can remember the apartment this happened in, pacing furiously as I tried to write down the ideas as they came.  Yes, I'm a pacer.
+
+Anyway, after I quit that job, I was trying to think of ideas that I could do on the limited amount of resources I currently had (though I owned my own camera equipment and still had friends from the tv job I could tap).  I had one really fucking good idea come out of this, and a few so-so ideas.  BABU was one of the so-so ideas.  It was originally supposed to be a video series, the first video being an instructional video training people in telemarketing (guess what job I had after the tv job?  Wrong, it was not a telemarketing job.  It was doing telephone surveys, we weren't selling anything, but close enough).  It slowly got scrapped as I wearied of the idea, partially from seeing similar shows on tv.  Not because it had already been done, but because better people than me had done it, and the format was still kind of painful to sit through.  Maybe it's from sitting through shitty informational videos in school or something, but even if they're not funny the lack of a plot somehow makes them hard to sit through.
+
+Through browsing a few websites and talking to some people I got the idea to do short guides, 
+
+The corollary of RoC #1 is that the closer something is to actually being done, the more I drag my feet, perhaps out of fear of something living and fluid becoming unchanging and concrete, but more likely because I'm a giant coward.
+
