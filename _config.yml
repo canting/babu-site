@@ -1,17 +1,17 @@
-title:            Site Title
-tagline:          A short tagline
-description:      Describe your website.
+title:            BABUGuides.com
+tagline:          Building A Better yoU!
+description:      The official site of BABU Guides, THE source for inaccurate and hastily-written guess-fests!
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://canting.github.io/babu-site/
+url:              http://www.babuguides.com
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Charlemagne Goodwriter
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  bio:            "Your tour guide through a wasteland of largely useless and satirical guides. Guides, coincidentally, that I wrote."
+  email:          egghead@babuguides.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        
+  twitter: babuguides        
   facebook:       
   github:         
   linkedin:       
@@ -22,28 +22,27 @@ owner:
   google_plus:    
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics: UA-48604412-1
+google_verify: nHnKaACNdLzG9C7TTRj1osyMF6qcYcCywaXPvTTOBOE     
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:        
 
 # Links to include in top navigation
 # For external links add external: true
 links:
+
+  - title: Our Guides!
+    url: /guides/
   - title: About
     url: /about/
-  - title: Posts
+  - title: Post Archive
     url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Chicago
 future:      true
-pygments:    true
+pygments:    false
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
