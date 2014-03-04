@@ -13,7 +13,7 @@ image:
 
 <a markdown="0" href="http://gum.co/bone" class="btn">Click here to buy!</a>
 
-# The Sales Pitch
+#  The Sales Pitch
 
 Here is it, the long-awaited digital release of the first ever BABU Guide, written by the estimable and esteemed Charlemagne Goodwriter.  At 8,000 words, it's triple the size of our standard guides and should take an average reader about 30 minutes to read.  A bargain at any price!
 
