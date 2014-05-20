@@ -28,7 +28,8 @@
   <article>
     <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
     <p>{{ post.excerpt | strip_html }}</p>
-  </article>
+<h1><a href="{{ site.url }}{{ post.url }}" title="Continue Reading">{{ post.title }}</a></h1>
+	</article>
   {% endfor %}
 </div><!-- /#index -->
 
