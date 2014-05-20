@@ -26,11 +26,12 @@
   <h3><a href="{{ site.url}}/articles/">Articles</a></h3>
   {% for post in site.posts limit:5 %}    
   <article>
-  <span class="post-date">{{ post.date | date_to_string }}</span> <a href="{{ post.url }}"> </a>
+  <span class="post-date">{{ post.date | date_to_string }}</span>{{ post.date | date_to_string }}<a href="{{ post.url }}"> </a>
     <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
     <p>{{ post.excerpt | strip_html }}</br>
-<a href="{{ site.url }}{{ post.url }}" title="Continue Reading">Continue Reading</a></p>
----
+<a href="{{ site.url }}{{ post.url }}" title="Continue Reading">Continue Reading</a>
+
+</p>
 	</article>
   {% endfor %}
 </div><!-- /#index -->
