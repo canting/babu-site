@@ -13,6 +13,12 @@ image:
 
 <a markdown="0" href="http://gum.co/beve" class="btn">Click here to buy!</a>
 
+It's also at these other places I'll list below:
+
+**[Amazon](http://www.amazon.com/dp/B00IS3XPIU) -- [Nook](http://store.kobobooks.com/en-US/ebook/how-to-pretend-to-have-climbed-everest) -- [B&N](http://www.barnesandnoble.com/w/how-to-pretend-to-have-climbed-mount-everest-charlemagne-goodwriter/1118887922?ean=2940149305810)**
+
+---
+
 People are always bragging about everything.  Ooh, I graduated from Harvard at the top of my class.  Ooh, I married a model.  Ooh, I successfully removed your tumor.  For some reason, they're undeterred by your flipping them off and shouting that they're complete twats.  No, there's nothing you can say, nice or mean, that will derail them or their steady progress towards happiness and success.  They're better than you, and they know it.
 
 Except, there is one thing that you could say to shut them up in their faces.  You have to do something viewed as inarguably incredible.  Something that would never occur to any of those snide overachievers to try.  You have to climb Mount Everest.  Don't worry, it only takes years of training and a small fortune.  I know it seems daunting but this 3,900 word guide will take you every step of the way.
@@ -37,8 +43,12 @@ Here's what some people are saying about this book:\\
 \\
 So you're convinced, right?  I'm sure you can see it now, the looks of respect and admiration you'll give me once you've read this book and realized how great I am, because I showed you how to look great like me.  I don't mind, go on and shower me with affection.  And money?  Yes, and with money.
 
-## Buy it from [our store](link to gumroad singles store) and get it in multiple formats!  And also we love you!
+## Buy it from [our store](http://gum.co/beve) and get it DRM-free and in multiple formats!  XOXOXO!
 
-<a markdown="0" href="http://bzknz.com" class="btn">Click here to buy!</a>
+<a markdown="0" href="http://gum.co/beve" class="btn">Click here to buy!</a>
+
+Or you can grab it at these other places (psst---they won't give you any hugs and kisses, so you can have these XOXOXO):
+
+**[Amazon](http://www.amazon.com/dp/B00IS3XPIU) -- [Nook](http://store.kobobooks.com/en-US/ebook/how-to-pretend-to-have-climbed-everest) -- [B&N](http://www.barnesandnoble.com/w/how-to-pretend-to-have-climbed-mount-everest-charlemagne-goodwriter/1118887922?ean=2940149305810)**
 
 ---

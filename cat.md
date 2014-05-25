@@ -13,6 +13,12 @@ image:
 
 <a markdown="0" href="http://gum.co/bbcat" class="btn">Click here to buy!</a>
 
+Or you can grab it from one of these fine digital vendors:
+
+**[Amazon](http://www.amazon.com/dp/B00IS3XKIU) -- [Kobo](http://store.kobobooks.com/en-US/ebook/how-to-turn-into-a-cat) -- [B&N](http://www.barnesandnoble.com/w/how-to-turn-into-a-cat-charlemagne-goodwriter/1118887917?ean=2940149305773)**
+
+---
+
 How many times have you bristled at the trappings of humanity?  The indignity of wiping your own bottom? The monotony of preparing and cooking your own food?  How many times on the way to work have you seen a cat happily sleeping in the sun and felt a pang of jealousy?  Does the phrase "reflexes of a cat" make you feel pretty shitty about your own reflexes?
 
 Well, have you ever thought about doing anything about it?
@@ -49,8 +55,12 @@ But why would you specifically (yes, you!) want to become a cat?  Good question.
 \\
 Pretty convincing, huh?  Yeah, I thought so.  So look, the guide's about 3,300 words, yeah?  You go do whatever you have to, I'm going to sit here and watch the cash money roll into my bank account, Goodwriter style.  Thanks!
 
-## Buy it from [our store](link to gumroad singles store) and get it in multiple formats!  And also we love you!
+## Buy it from [our store](http://gum.co/bbcat) and get it DRM-free and in multiple formats!
 
-<a markdown="0" href="http://bzknz.com" class="btn">Click here to buy!</a>
+<a markdown="0" href="http://gum.co/bbcat" class="btn">Click here to buy!</a>
+
+But wait, there's more...places you can buy it from:
+
+**[Amazon](http://www.amazon.com/dp/B00IS3XKIU) -- [Kobo](http://store.kobobooks.com/en-US/ebook/how-to-turn-into-a-cat) -- [B&N](http://www.barnesandnoble.com/w/how-to-turn-into-a-cat-charlemagne-goodwriter/1118887917?ean=2940149305773)**
 
 ---

@@ -9,9 +9,15 @@ image:
   feature: spy-feature.png
 ---
 
-##Buy it direct from [our store](link to gumroad singles store) and get it in epub, mobi, pdf, and html formats!
+##Buy it direct from [our store](http://gum.co/bspy) and get it in epub, mobi, pdf, and html formats!
 
 <a markdown="0" href="http://gum.co/bspy" class="btn">Click here to buy!</a>
+
+Or you can grab it from any of these fine retailers:
+
+**[Amazon](http://www.amazon.com/dp/B00IRS79OM) -- [Kobo](http://store.kobobooks.com/en-US/ebook/how-to-whitewash-your-national-spy-organization) -- [B&N](http://www.barnesandnoble.com/w/how-to-whitewash-your-national-spy-organization-charlemagne-goodwriter/1118887923?ean=2940149305841)**
+
+---
 
 Has this happened to you?  You run your nation's "intelligence" office, or it's "security" office.  You're a spy.  You do well, and you start gathering intelligence on the citizens of your own country.  You order big companies to give you back doors into their systems.  You build a giant data pipeline and you save everyone's data indiscriminately. The press catches wind, and suddenly your organization is the subject of ridicule and scorn from the entire populace.  Oops!  
 
@@ -35,8 +41,12 @@ But hey, don't just take our word for it!  Here are what other people have been 
 \\
 Pretty convincing, huh?  We think so.  And most of you think so too.  Or at least, that's what your emails say.  Cheeky?
 
-## Buy it from [our store](link to gumroad singles store) and get it in multiple formats!  And also we love you!
+## Buy it from [our store](http://gum.co/bspy) and get it DRM-free and in multiple formats!
 
-<a markdown="0" href="http://bzknz.com" class="btn">Click here to buy!</a>
+<a markdown="0" href="http://gum.co/bspy" class="btn">Click here to buy!</a>
+
+Or you can grab it from over here:
+
+**[Amazon](http://www.amazon.com/dp/B00IRS79OM) -- [Kobo](http://store.kobobooks.com/en-US/ebook/how-to-whitewash-your-national-spy-organization) -- [B&N](http://www.barnesandnoble.com/w/how-to-whitewash-your-national-spy-organization-charlemagne-goodwriter/1118887923?ean=2940149305841)**
 
 ---

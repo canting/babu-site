@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /boners/
+permalink: /template/
 title: How to Hide Your Boners
 tagline: We think the title's pretty self explanatory, yeah?
 tags: [guide, bundle]

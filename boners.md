@@ -13,6 +13,10 @@ image:
 
 <a markdown="0" href="http://gum.co/bone" class="btn">Click here to buy!</a>
 
+Of course you can also buy it from one of these fine retailers: 
+
+**[Amazon](https://www.amazon.com/dp/B00IS5LM5Q) -- [Kobo](http://store.kobobooks.com/en-US/ebook/how-to-hide-your-boners) -- [B&N](http://www.barnesandnoble.com/w/how-to-hide-your-boners-charlemagne-goodwriter/1118887911?ean=2940149305704)**
+
 #  The Sales Pitch
 
 Here is it, the long-awaited digital release of the first ever BABU Guide, written by the estimable and esteemed Charlemagne Goodwriter.  At 8,000 words, it's triple the size of our standard guides and should take an average reader about 30 minutes to read.  A bargain at any price!
@@ -47,8 +51,12 @@ So you're convinced, right?  You're probably getting ready to stand up and reach
 
 ---
 
-## Buy it from [our store](link to gumroad singles store) and get it in multiple formats!  And also we love you!
+## Buy it from [our store](http://gum.co/bone) and get it DRM-free and in multiple formats!  And also we love you!
 
-<a markdown="0" href="http://bzknz.com" class="btn">Click here to buy!</a>
+<a markdown="0" href="http://gum.co/bone" class="btn">Click here to buy!</a>
+
+You can also buy it from one of these stores (and yes, we still love you): 
+
+**[Amazon](https://www.amazon.com/dp/B00IS5LM5Q) -- [Kobo](http://store.kobobooks.com/en-US/ebook/how-to-hide-your-boners) -- [B&N](http://www.barnesandnoble.com/w/how-to-hide-your-boners-charlemagne-goodwriter/1118887911?ean=2940149305704)**
 
 ---

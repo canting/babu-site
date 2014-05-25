@@ -9,9 +9,15 @@ image:
   feature: ebook-feature.png
 ---
 
-##Buy it direct from [our store](link to gumroad singles store) and get it in epub, mobi, pdf, and html formats!
+##Buy it direct from [our store](http://gum.co/bebo) and get it in epub, mobi, pdf, and html formats!
 
 <a markdown="0" href="http://gum.co/bebo" class="btn">Click here to buy!</a>
+
+Or you can buy it from these other sites:
+
+**[Amazon](https://www.amazon.com/dp/B00IS3XIJG) -- [Kobo](http://store.kobobooks.com/en-US/ebook/how-to-avoid-ebook-scams) -- [B&N](http://www.barnesandnoble.com/w/how-to-avoid-ebook-scams-charlemagne-goodwriter/1118887919?ean=2940149305797)**
+
+---
 
 Ebook scams.  The Internet is filled with them.  You can't search for help on any subject without being faced with dozens of links to blogs full of ads for some new ebook that will change your life FOREVER!
 
@@ -43,8 +49,12 @@ So what are you waiting for?  Buy this book or pay the price!  Er no.  Pay the p
 
 (please)
 
-## Buy it from [our store](link to gumroad singles store) and get it in multiple formats!  And also we love you!
+## Buy it from [our store](http://gum.co/bebo) and get it DRM-free in multiple formats!  Have we mentioned how good you're lookin' today?
 
-<a markdown="0" href="http://bzknz.com" class="btn">Click here to buy!</a>
+<a markdown="0" href="http://gum.co/bebo" class="btn">Click here to buy!</a>
+
+Who know who else looks good?  People who buy this guide from any of these other retailers:
+
+**[Amazon](https://www.amazon.com/dp/B00IS3XIJG) -- [Kobo](http://store.kobobooks.com/en-US/ebook/how-to-avoid-ebook-scams) -- [B&N](http://www.barnesandnoble.com/w/how-to-avoid-ebook-scams-charlemagne-goodwriter/1118887919?ean=2940149305797)**
 
 ---

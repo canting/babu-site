@@ -13,7 +13,11 @@ image:
 
 <a markdown="0" href="http://gum.co/bun1" class="btn">Click here to buy!</a>
 
-## The Promotional Copy
+But hey, if you want you can grab it from one of these stores too:
+
+**[Amazon](http://www.amazon.com/dp/B00IS5LS96) -- [Kobo](http://store.kobobooks.com/en-US/ebook/the-collected-babu-guides-volume-one) -- [B&N](http://www.barnesandnoble.com/w/the-collected-babu-guides-charlemagne-goodwriter/1118887914?ean=2940149305742)**
+
+---
 
 Well lookie here, it's the first ever BABU Bundle!  We've carefully hand picked four of our finest guides to include in this first-ever bundle!  These guides, besides being the cream of our crop, are also the only four that actually exist at the moment.  We here at the BABU Foundation (not a real foundation) are nothing if not logical!  And honest.  Fingers crossed!  No wait, touch wood?  Whichever one that means we're honest, and makes you send us money, that's what we mean!
 
@@ -37,8 +41,12 @@ But wait, you don't trust my word on the incredible value of this bundle because
 \\
 You'd better act now, because there's a very limited supply of these bundles, and that's the truth.  We actually only made one copy!  Then we uploaded that one file to every major ebook marketplace, and when they run out of files, they're done!  It could happen any minute.  It could be happening right now.  Go!  Quick!  Don't bother explaining how transferring files over the internet works, it's over our heads.  Just money us!  Please?  ;)
 
-## Buy it from [our store](link to gumroad singles store) and get it in multiple formats!  And also we love you!
+## Buy it from [our store](http://gum.co/bun1) and get it DRM free and in multiple formats!  High five!
 
-<a markdown="0" href="http://bzknz.com" class="btn">Click here to buy!</a>
+<a markdown="0" href="http://gum.co/bun1" class="btn">Click here to buy!</a>
+
+Or you can buy it from one of these fine stores.  Don't worry, we won't leave you hanging:
+
+**[Amazon](http://www.amazon.com/dp/B00IS5LS96) -- [Kobo](http://store.kobobooks.com/en-US/ebook/the-collected-babu-guides-volume-one) -- [B&N](http://www.barnesandnoble.com/w/the-collected-babu-guides-charlemagne-goodwriter/1118887914?ean=2940149305742)**
 
 ---
