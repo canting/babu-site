@@ -6,7 +6,7 @@ tagline: We think the title's pretty self explanatory, yeah?
 tags: [guide, bundle]
 modified: 2-10-2014
 image:
-  feature: feature-01.png
+  feature: bundle01-feature.png
 ---
 
 ##Buy it direct from [our store](http://gum.co/bun1) and get it in epub, mobi, pdf, and html formats!
