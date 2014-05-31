@@ -9,11 +9,11 @@ image:
   feature: feature-01.png
 ---
 
-tl:dr - Free guides, everybody!  Just, you know, buy them if you did like them and can afford them, or buy your favorite, or something.  Links [at the bottom](#links).\\
+**tl:dr** - *Free guides, everybody!  Just, you know, consider buying them if like them, or help spread the word if you don't have money to spare.  Links [at the bottom](#links).*\\
 \\
-People say that information should be free or wants to be free.  I don't know about that.  Personification is a literary device, not a logical one, after all.
+People say that information should be free or wants to be free.  I don't know about that.  Personification is a literary device and not a logical one after all, though I certainly understand the sentiment.
 
-What I do know, or rather what I do think, is that all information, be it art or be it education, informs the reader and contributes to a larger social conversation (or in my case, mis-informs the reader...).  I don't like the idea of denying someone access to any sort of information , any sort of access to a conversation, because of how much money they may or may not have.  It just doesn't sit well with me.
+What I do know, or rather what I do think, is that all information, be it art, education, or raw data, informs the reader and contributes to a larger social conversation (or in my case, mis-informs the reader...).  I don't like the idea of denying someone access to any sort of information , any sort of access to a conversation, because of how much money they may or may not have.  It just doesn't sit well with me.
 
 On top of this, the people who pirate the most media tend to be the people who buy the most---in these cases, piracy only means a lost sale if they didn't like what they downloaded, which seems fair to me that people not buy something they didn't like.  In cases where people pirate media because they can't afford it, piracy isn't resulting in a lost sale, they couldn't afford to buy it in the first place, right?
 
@@ -37,33 +37,32 @@ The first guide published was a triple-length:\\
 \\
 **How to Hide Your Boners**
 
-[Download it Free] or [Buy a copy]\\
+[Download it Free](https://drive.google.com/file/d/0B_7nqDWy-tAXcnliS1RfRmFyYms/edit?usp=sharing) or [Buy a copy](www.babuguides.com\boners\)\\
 \\
 You can get the first four singles in one volume:\\
 \\
 **The Collected BABU Guides Volume One**
 
-[Download it Free] or [Buy a copy]\\
+[Download it Free](https://drive.google.com/file/d/0B_7nqDWy-tAXaWsyYzlGeXY3Wlk/edit?usp=sharing) or [Buy a copy](www.babuguides.com\bundle-01\)\\
 \\
 Or individually:\\
 \\
 **How to Turn into a Cat**
 
-[Download it Free]() or [Buy a copy]()\\
+[Download it Free](https://drive.google.com/file/d/0B_7nqDWy-tAXYzltMVZkaEpxZkE/edit?usp=sharing) or [Buy a copy](www.babuguides.com\cat\)\\
 \\
 **How to Avoid Ebook Scams**
 
-[Download it Free]() or [Buy a copy]()\\
+[Download it Free](https://drive.google.com/file/d/0B_7nqDWy-tAXNUlyLXh0SkhBT3c/edit?usp=sharing) or [Buy a copy](www.babuguides.com\ebook\)\\
 \\
 **How to Pretend to Have Climbed Everest**
 
-[Download it Free]() or [Buy a copy]()\\
+[Download it Free](https://drive.google.com/file/d/0B_7nqDWy-tAXenhPeXlBV3ZVZms/edit?usp=sharing) or [Buy a copy](www.babuguides.com\everest\)\\
 \\
 **How to Whitewash Your National Spy Agency**
 
-[Download it Free]() or [Buy a copy]()\\
+[Download it Free](https://drive.google.com/file/d/0B_7nqDWy-tAXajl1OXc2RVhHbFE/edit?usp=sharing) or [Buy a copy](www.babuguides.com\spy\)\\
 \\
-
 Enjoy!
 
 --Charlemagne
