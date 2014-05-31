@@ -9,8 +9,8 @@ image:
   feature: feature-01.png
 ---
 
-tl:dr - Free guides, everybody!  Just, you know, buy them if you did like them and can afford them, or buy your favorite, or something.  Links [at the bottom](#links).
-
+tl:dr - Free guides, everybody!  Just, you know, buy them if you did like them and can afford them, or buy your favorite, or something.  Links [at the bottom](#links).\\
+\\
 People say that information should be free or wants to be free.  I don't know about that.  Personification is a literary device, not a logical one, after all.
 
 What I do know, or rather what I do think, is that all information, be it art or be it education, informs the reader and contributes to a larger social conversation (or in my case, mis-informs the reader...).  I don't like the idea of denying someone access to any sort of information , any sort of access to a conversation, because of how much money they may or may not have.  It just doesn't sit well with me.
