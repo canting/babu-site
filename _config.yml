@@ -35,9 +35,10 @@ links:
     url: /guides/
   - title: About
     url: /about/
+  - title: For Pirates
+    url: /pirate/
   - title: Post Archive
     url: /posts/
-
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago
