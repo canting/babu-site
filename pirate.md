@@ -9,7 +9,11 @@ image:
   feature: feature-01.png
 ---
 
-tl:dr - Free guides, everybody!  Just, you know, buy them if you did like them and can afford them, or buy your favorite, or something.  Links [at the bottom](babuguides.com/pirate/#links).
+tl:dr - Free guides, everybody!  Just, you know, buy them if you did like them and can afford them, or buy your favorite, or something.  Links [at the bottom](www.babuguides.com/pirate/#links).
+
+Or how about [this](#links)?  
+
+Or [this](/#links)?
 
 People say that information should be free or wants to be free.  I don't know about that.  Personification is a literary device, not a logical one, after all.
 
