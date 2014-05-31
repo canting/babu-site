@@ -19,12 +19,53 @@ On top of this, the people who pirate the most media tend to be the people who b
 
 I'm glad I'm not a grocer.  To be in a position where people are starving but you can't just give them food, because groceries are physical goods and you have to sell what you have in order to get more.  To give it all away would mean you're out of business.  Selling digital goods, I can give it all away and still have exactly as much as I started with.  So I am.
 
-Every BABU Guide will be made available here, on this side, for free.  Please understand what this means for me however.
+Every BABU Guide will be made available here, on this site, for free.  If you download it here, and you find you don't like it, no worries.  Thanks for giving us a look.
 
-At the time of writing this, I'm working a full time job.  I'd like to write more, more guides and other things like novels, comics, etc.  That requires more time and more resources.  So please keep in mind, if you like what you read and feel it was worth the money, or you'd like to see what else I can do and want to help, step on over to Gumroad and 
+If you did like it however, consider this:
+
+At the time of writing this, I'm working a full time job.  Someday I'd like to leave this job, or at least step down to part time.  I'd like to write more, more guides and other things like novels, comics, etc.  That requires more time and more resources.  So, if you like these guides and feel they're worth money, or you'd like to see what else I can do and want to help, please [buy some](http://www.babuguides.com/guides/).
+
+If you don't have money to spare, hey, I've been there.  You can still help support these works though, by spreading the word.  Tell your friends, blog it, tweet it, add us on whatever social network you prefer, you know the drill.
+
+Oh, and one more thing before I finally let you scroll past to the links.  If anybody ever posts any of my works to a torrent site or something, I'd appreciate a link back to this page in the description, and perhaps drop me an [email](mailto:egghead@babuguides.com) so I can see what the response is.  No DMCA bullshit, no takedown notices, I promise.
 
 #Links
 
-There will be links here, once a file host is sorted out......
+*All these files are hosted from a Google Drive account at the moment.  If that ends up not working well for any of you, email me at [egghead@babuguides.com](mailto:egghead@babuguides.com) and I'll work something else out.*
+
+The first guide published was a triple-length:\\
+\\
+**How to Hide Your Boners**
+
+[Download it Free] or [Buy a copy]\\
+\\
+You can get the first four singles in one volume:\\
+\\
+**The Collected BABU Guides Volume One**
+
+[Download it Free] or [Buy a copy]\\
+\\
+Or individually:\\
+\\
+**How to Turn into a Cat**
+
+[Download it Free]() or [Buy a copy]()\\
+\\
+**How to Avoid Ebook Scams**
+
+[Download it Free]() or [Buy a copy]()\\
+\\
+**How to Pretend to Have Climbed Everest**
+
+[Download it Free]() or [Buy a copy]()\\
+\\
+**How to Whitewash Your National Spy Agency**
+
+[Download it Free]() or [Buy a copy]()\\
+\\
+
+Enjoy!
+
+--Charlemagne
 
 ---
