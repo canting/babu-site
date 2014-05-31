@@ -9,9 +9,7 @@ image:
   feature: feature-01.png
 ---
 
-IF YOU'VE STUMBLED ON THIS PAGE SO FAR, I'M STILL WORKING OUT A FILE HOSTING SOLUTION.  I'LL POST THE LINKS AND OFFICIALLY PUBLISH TH EPAGE WHEN EVERYTHING IS IRONED OUT.
-
-tl:dr - Free books, ya'll!  Just, you know, buy them if you did like them and can afford them, or buy your favorite, or something.  Links [at the bottom]()
+tl:dr - Free guides, everybody!  Just, you know, buy them if you did like them and can afford them, or buy your favorite, or something.  Links [at the bottom](babuguides.com/pirate/#links).
 
 People say that information should be free or wants to be free.  I don't know about that.  Personification is a literary device, not a logical one, after all.
 
@@ -24,5 +22,9 @@ I'm glad I'm not a grocer.  To be in a position where people are starving but yo
 Every BABU Guide will be made available here, on this side, for free.  Please understand what this means for me however.
 
 At the time of writing this, I'm working a full time job.  I'd like to write more, more guides and other things like novels, comics, etc.  That requires more time and more resources.  So please keep in mind, if you like what you read and feel it was worth the money, or you'd like to see what else I can do and want to help, step on over to Gumroad and 
+
+#Links
+
+There will be links here, once a file host is sorted out......
 
 ---
