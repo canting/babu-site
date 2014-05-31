@@ -37,31 +37,31 @@ The first guide published was a triple-length:\\
 \\
 **How to Hide Your Boners**
 
-[Download it Free](https://drive.google.com/file/d/0B_7nqDWy-tAXcnliS1RfRmFyYms/edit?usp=sharing) or [Buy a copy](\boners\)\\
+[Download it Free](https://drive.google.com/file/d/0B_7nqDWy-tAXcnliS1RfRmFyYms/edit?usp=sharing) or [Buy a copy](/boners/)\\
 \\
 You can get the first four singles in one volume:\\
 \\
 **The Collected BABU Guides Volume One**
 
-[Download it Free](https://drive.google.com/file/d/0B_7nqDWy-tAXaWsyYzlGeXY3Wlk/edit?usp=sharing) or [Buy a copy](\bundle-01\)\\
+[Download it Free](https://drive.google.com/file/d/0B_7nqDWy-tAXaWsyYzlGeXY3Wlk/edit?usp=sharing) or [Buy a copy](/bundle-01/)\\
 \\
 Or individually:\\
 \\
 **How to Turn into a Cat**
 
-[Download it Free](https://drive.google.com/file/d/0B_7nqDWy-tAXYzltMVZkaEpxZkE/edit?usp=sharing) or [Buy a copy](\cat\)\\
+[Download it Free](https://drive.google.com/file/d/0B_7nqDWy-tAXYzltMVZkaEpxZkE/edit?usp=sharing) or [Buy a copy](/cat/)\\
 \\
 **How to Avoid Ebook Scams**
 
-[Download it Free](https://drive.google.com/file/d/0B_7nqDWy-tAXNUlyLXh0SkhBT3c/edit?usp=sharing) or [Buy a copy](\ebook\)\\
+[Download it Free](https://drive.google.com/file/d/0B_7nqDWy-tAXNUlyLXh0SkhBT3c/edit?usp=sharing) or [Buy a copy](/ebook/)\\
 \\
 **How to Pretend to Have Climbed Everest**
 
-[Download it Free](https://drive.google.com/file/d/0B_7nqDWy-tAXenhPeXlBV3ZVZms/edit?usp=sharing) or [Buy a copy](\everest\)\\
+[Download it Free](https://drive.google.com/file/d/0B_7nqDWy-tAXenhPeXlBV3ZVZms/edit?usp=sharing) or [Buy a copy](/everest/)\\
 \\
 **How to Whitewash Your National Spy Agency**
 
-[Download it Free](https://drive.google.com/file/d/0B_7nqDWy-tAXajl1OXc2RVhHbFE/edit?usp=sharing) or [Buy a copy](\spy\)\\
+[Download it Free](https://drive.google.com/file/d/0B_7nqDWy-tAXajl1OXc2RVhHbFE/edit?usp=sharing) or [Buy a copy](/spy/)\\
 \\
 Enjoy!
 
