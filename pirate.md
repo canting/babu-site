@@ -9,7 +9,7 @@ image:
   feature: feature-01.png
 ---
 
-**tl:dr** - *You can download all my guides free of charge, everybody!  Just, you know, consider buying them if like them, or alternatively help spread the word if you don't have money to spare.  Download links [at the bottom](#links).*\\
+**tl:dr** - *You can download all my guides free of charge, everybody!  Just, you know, consider buying them if you like them, or alternatively help spread the word if you don't have money to spare.  Download links [at the bottom](#links).*\\
 \\
 People say that information should be free or wants to be free.  I don't know about that.  Personification is a literary device and not a logical one after all, though I certainly understand the sentiment.
 
